@@ -7,6 +7,9 @@ public class Test{
 	//comment 
 	
 	//1
+	int i = 15;
+	int j = 5;
 	System.out.println("Hi there!");
+	System.out.println("The calculation result - is: " + 15 / 5 );
 	}
 }
